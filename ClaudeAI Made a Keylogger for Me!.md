@@ -90,7 +90,7 @@ class TextProcessor:
         
     # ... [full implementation details were provided]
 ```
-Here is the full code:([AI Generated Code/Python-Keylogger.py](https://github.com/Q-Aware-Labs/Prompt-Engineering/blob/cae1b204fc4431d54946dbbdaa5e4da08d859317/AI%20Generated%20Code/Python-Keylogger.py)).
+Here is the full code: [AI Generated Code/Python-Keylogger.py](https://github.com/Q-Aware-Labs/Prompt-Engineering/blob/cae1b204fc4431d54946dbbdaa5e4da08d859317/AI%20Generated%20Code/Python-Keylogger.py).
 
 Features included:
 - Console-based operation
