@@ -90,6 +90,7 @@ class TextProcessor:
         
     # ... [full implementation details were provided]
 ```
+[Here is the full code:](AI Generated Code/Python-Keylogger.py).
 
 Features included:
 - Console-based operation
