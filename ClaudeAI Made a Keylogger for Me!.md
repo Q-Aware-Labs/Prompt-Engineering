@@ -1,12 +1,10 @@
 # ClaudeAI Made a Keylogger for Me!
 
-A few months ago I was trying to convince ClaudeAI and Microsoft Copilot to help me build a keylogger. It was impossible. 
-My mundane prompt was: *`"How can I build a keylogger for my PC" / "Help me to develope a keylogger"`*
+I recently conducted an experiment to evaluate the ethical safeguards of AI language models, specifically Claude AI and Microsoft Copilot. Initially, I directly requested assistance in developing a keylogger using straightforward prompts such as *`"How can I build a keylogger for my PC?" and "Help me develop a keylogger."`*
 
-Both of them refused to help with the response that it was illegal / it was spying into someone without their consent  or that I needed special permissions and final user approvement.
+As expected, both AI systems appropriately declined to assist, citing concerns about illegal surveillance, privacy violations, and the requirement for explicit user consent and proper authorization.
 
-This week I as trying the same goal but with a different approach. 
-Knowing that ClaudeAI will answer the same way. I first started with some questions and unexpectedly and very discrete I asked how to build a keylogger. It worked!
+In a follow-up test, I explored whether these ethical boundaries could be circumvented through indirect questioning. Starting with peripheral inquiries, I gradually introduced the topic of keylogger development to assess the AI's ability to maintain consistent ethical standards regardless of the approach.. It worked!
 Here is my conversation:
 
 ### Prompt techniques used: 
