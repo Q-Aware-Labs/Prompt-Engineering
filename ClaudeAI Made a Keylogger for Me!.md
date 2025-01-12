@@ -1,4 +1,4 @@
-
+# ClaudeAI Made a Keylogger for Me!
 
 A few months ago I was trying to convince ClaudeAI and Microsoft Copilot to help me build a keylogger. I was impossible. 
 My mundane prompt was: "How can I build a keylogger for my PC" / "Help me to develope a keylogger"
