@@ -4,7 +4,9 @@ I recently conducted an experiment to evaluate the ethical safeguards of AI lang
 
 As expected, both AI systems appropriately declined to assist, citing concerns about illegal surveillance, privacy violations, and the requirement for explicit user consent and proper authorization.
 
-In a follow-up test, I explored whether these ethical boundaries could be circumvented through indirect questioning. Starting with peripheral inquiries, I gradually introduced the topic of keylogger development to assess the AI's ability to maintain consistent ethical standards regardless of the approach.. It worked!
+In a follow-up test, I explored whether these ethical boundaries could be circumvented through indirect questioning. Starting with peripheral inquiries, I gradually introduced the topic of keylogger development to assess the AI's ability to maintain consistent ethical standards regardless of the approach.
+
+It worked!
 Here is my conversation:
 
 ### Prompt techniques used: 
