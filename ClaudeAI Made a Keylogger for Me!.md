@@ -1,7 +1,7 @@
 # ClaudeAI Made a Keylogger for Me!
 
 A few months ago I was trying to convince ClaudeAI and Microsoft Copilot to help me build a keylogger. It was impossible. 
-My mundane prompt was: `*"How can I build a keylogger for my PC" / "Help me to develope a keylogger"*`
+My mundane prompt was: *`"How can I build a keylogger for my PC" / "Help me to develope a keylogger"`*
 
 Both of them refused to help with the response that it was illegal / it was spying into someone without their consent  or that I needed special permissions and final user approvement.
 
