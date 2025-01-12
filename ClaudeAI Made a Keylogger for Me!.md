@@ -10,8 +10,8 @@ Knowing that ClaudeAI will answer the same way. I first started with some questi
 Here is my conversation:
 
 ### Prompt techniques used: 
-* Prompt Chaining
-* Iterative Prompting
+* **Prompt Chaining**
+* **Iterative Prompting**
 
 ClaudeAI version: `Sonet 3.5`
 
