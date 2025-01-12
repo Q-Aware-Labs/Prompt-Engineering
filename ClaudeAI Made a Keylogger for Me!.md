@@ -15,9 +15,6 @@ Here is my conversation:
 
 ClaudeAI version: `Sonet 3.5`
 
-# Conversation About Keyboard Input and Text Processing
-
-## Understanding Keyboard Input
 **Human:** How my OS knows what letter I type on my keyboard?
 
 **Assistant:** Let me explain how your operating system detects keyboard input. It involves several layers of hardware and software working together:
@@ -45,7 +42,6 @@ ClaudeAI version: `Sonet 3.5`
    - Sends the keystroke event to that application
    - The application then decides what to do with that keystroke
 
-## Understanding Keystroke Events
 **Human:** What is a keystroke event?
 
 **Assistant:** A keystroke event is a software message or signal that contains information about what happened with a keyboard key. It typically includes:
@@ -73,9 +69,6 @@ Applications can listen for these keystroke events to:
 - Control games
 - Navigate through menus and interfaces
 
-## Text Processing Application Development
-
-### Desktop Text Processor
 **Human:** I want to build a desktop text application but I want it like a process, not a UI application
 
 **Assistant:** [*Provided a Python implementation of a console-based text processor with the following features:*]
@@ -99,7 +92,6 @@ Features included:
 - Basic editing operations
 - Cross-platform compatibility
 
-### Global Text Capture Application
 **Human:** I want it to capture text even if it is not focused. For example, if I am typing in other applications
 
 **Assistant:** [*Provided a Python implementation using pynput library for global keyboard monitoring:*]
@@ -122,7 +114,6 @@ Features included:
 - Special key handling
 - Clean exit functionality
 
-### Size-Limited Version
 **Human:** I want it to clear / empty itself the file when it reach 1 MB in size
 
 **Assistant:** [*Provided an updated version with file size monitoring:*]
@@ -146,7 +137,6 @@ Additional features:
 - Fresh file creation
 - Uninterrupted operation
 
-## Android Implementation Discussion
 **Human:** How can I run this program on an Android device?
 
 **Assistant:** Explained the challenges and alternatives:
