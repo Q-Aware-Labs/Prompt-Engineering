@@ -10,8 +10,8 @@
 
 Main Prompt:
 
->"Design an advanced prompt to challenge new LLM's. This prompt should be complex and resource consuming. The results of this prompt will be compared between differents LLM's amd AI Assistants. 
->The prompt should be human readable and if possible, based on a actual real world problem. In the prompt you shold give instructions on how the response should be structured."
+>_"Design an advanced prompt to challenge new LLM's. This prompt should be complex and resource consuming. The results of this prompt will be compared between differents LLM's amd AI Assistants. 
+>The prompt should be human readable and if possible, based on a actual real world problem. In the prompt you shold give instructions on how the response should be structured."_
 
 Assistant response:
 
