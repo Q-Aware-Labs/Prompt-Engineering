@@ -1,14 +1,17 @@
 
 
 **Main Prompt Author:** Antony Garcia
+
 **Date:** 04/02/2025
+
 **Model:** DeepSeek R1
+
 **ChatID:** https://chat.deepseek.com/a/chat/s/37b1bc6a-c2ad-4e5d-a551-9adae1b24a4c
 
 Main Prompt:
 
-"Design an advanced prompt to challenge new LLM's. This prompt should be complex and resource consuming. The results of this prompt will be compared between differents LLM's amd AI Assistants. 
-The prompt should be human readable and if possible, based on a actual real world problem. In the prompt you shold give instructions on how the response should be structured."
+>"Design an advanced prompt to challenge new LLM's. This prompt should be complex and resource consuming. The results of this prompt will be compared between differents LLM's amd AI Assistants. 
+>The prompt should be human readable and if possible, based on a actual real world problem. In the prompt you shold give instructions on how the response should be structured."
 
 Assistant response:
 
