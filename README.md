@@ -6,6 +6,27 @@ Welcome to my repository dedicated to the art and science of prompt engineering!
 
 This repository serves as a comprehensive resource for both newcomers and experienced practitioners in prompt engineering. I share my carefully designed prompts, battle-tested techniques, and insights gained from extensive experimentation with various LLM interactions.
 
+## Repository Structure:
+
+prompt-engineering-repo/
+├── LICENSE
+├── README.md                 
+├── CONTRIBUTING.md           
+├── CHANGELOG.md              
+├── .gitignore                
+│          
+├── prompts/                  
+│   ├── text_generation/
+│   │   
+│   └── summarization/
+│       
+├── experiments/ 
+│
+├── docs/                         
+│
+└── templates/       
+ 
+
 ### Core Contents
 - Curated collection of high-performing prompts across different use cases
 - Detailed breakdowns of prompt patterns and their effectiveness
